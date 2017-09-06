@@ -1,2 +1,2 @@
-# vue-music
-vue音乐
+# cnode
+使用vue.js开发cnode社区
